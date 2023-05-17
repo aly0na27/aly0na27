@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi kasatiki! 👋 
+![](https://komarev.com/ghpvc/?username=aly0na27)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aly0na27)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_aly0na___)
@@ -15,5 +16,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm from Ukraine. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aly0na27)](https://github.com/anuraghazra/github-readme-stats)
