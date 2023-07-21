@@ -12,8 +12,7 @@
 - 🔭 I’m currently working on С++ and Python.
 - 🌱 I’m currently learning everything I can find.
 - ❤ I’m looking to collaborate on yeezy-na-izi.
-- 🤔 I’m looking for help with HTM
-- L, CSS and JS.
+- 🤔 I’m looking for help with HTML, CSS and JS.
 - 🎓 I'm currently getting a bachelor of applied mathematics and computer science at MIREA
 - ⚡ Fun fact: I'm from Ukraine 
 
