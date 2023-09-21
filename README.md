@@ -9,7 +9,7 @@
 [![Vkontakte](https://img.shields.io/badge/VK-3399FF?style=for-the-badge&logo=Vk&logoColor=white)](https://vk.com/lelya45)
 
 
-- 🔭 I’m currently working on С++ and Python.
+- 🔭 I’m currently working on JavaScript and С++.
 - 🌱 I’m currently learning everything I can find.
 - ❤ I’m looking to collaborate on yeezy-na-izi.
 - 🤔 I’m looking for help with HTML, CSS and JS.
